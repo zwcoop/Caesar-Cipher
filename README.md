@@ -38,7 +38,7 @@
 ## About The Project
 
 <div align="center">
-<img src="images/hangman-demo.png" alt="Demo">
+<img src="images/caesar-cipher-demo.png" alt="Demo">
 </div>
 <br />
 <p> This program imports an encryted message and prints out the decrypted message and the number the alphabet was shifted by.</p>
